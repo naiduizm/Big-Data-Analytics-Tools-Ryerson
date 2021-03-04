@@ -3,6 +3,6 @@
 **Course taken:** Jan - May 2019
 
 **Description**<br/>
-The two MS Word files include SQL scripts and output performed using HIVE and PIG on two different big datasets.
+The two files include SQL scripts and output performed using HIVE and PIG on two different big datasets.
 
 
