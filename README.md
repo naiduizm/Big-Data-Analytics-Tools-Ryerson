@@ -7,6 +7,6 @@ This repository showcases an assignment completed using PySpark in the Winter 20
 
 File legend:
 
-Dataset schema: file:///C:/Users/tanna_000/Documents/CIND719/Assignment%203/readme.html
-CSV File: OnTimePerf1987_2018.csv
+Dataset schema: file:///C:/Users/tanna_000/Documents/CIND719/Assignment%203/readme.html </>
+CSV File: OnTimePerf1987_2018.csv </>
 3 scripts in text file formats
