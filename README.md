@@ -3,6 +3,6 @@
 **Course taken:** Jan - May 2019
 
 **Description**<br/>
-The two files include SQL scripts and output performed using HIVE and PIG on two different big datasets.
+This repository showcases some assignments completed using Hive, Pig, and Spark at the Winter 2019 semester at Ryerson. 
 
 
