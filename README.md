@@ -1,4 +1,4 @@
-# CIND719---Big-Data-Analytics-Tools @ Ryerson University Toronto, Canada
+# Big-Data-Analytics-Tools @ Ryerson University Toronto, Canada
 
 **Course taken:** Jan - May 2019
 
